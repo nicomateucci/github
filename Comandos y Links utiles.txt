@@ -1,3 +1,6 @@
+
 Comandos basicos Git
 
 	1 https://gist.github.com/BCasal/026e4c7f5c71418485c1
+
+$ GitHub puede transferir archivos por HTTP o por SSH, que seria un telnet mejorado (Encriptado).
